@@ -41,6 +41,7 @@ def solution(numbers, hand):
     return answer
 
 # URL : https://programmers.co.kr/learn/courses/30/lessons/67256
+# Programmers, Level1, 키패드 누르기, 2020 카카오 인턴
 # 문제를 요약하면 1, 4, 7 *는 무조건 왼쪽 손가락이 3, 6, 9, #은  오른쪽 손가락을 사용하게 됩니다.
 # 마지막으로 2, 5, 8, 0는 손가락 이동 거리를 계산해 더 적게 이동하는 손가락이 두 손의 거리가 동일하다면 본인이 사용하기 편한 손가락이 이동합니다.
 # left_keypad와 right_keypad를 설정한 뒤 20~25 Line에서 mid_keypad가 아닌 경우를 처리합니다.

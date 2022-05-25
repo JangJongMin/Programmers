@@ -11,6 +11,7 @@ def solution(id_list, report, k):
     return answer
 
 # URL : https://programmers.co.kr/learn/courses/30/lessons/92334
+# Programmers, Level1, 신고 결과 받기, 2022 KAKAO BLIND RECRUITMENT
 # 문제를 요약하면 report를 받아서 중복을 제거한 report의 수가 k 이상이면 신고한 신고자에게 처리 결과를 말해주면 됩니다.
 # 일단 먼저 report에서 중복을 제거해야하며, 파이썬에서는 중복과 관련된 처리를 빠르게 할 수 있는 `set` 타입을 지원합니다.
 # 해당 아래의 `6 Line`에서 처리하는 것을 확인할 수 있습니다.
