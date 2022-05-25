@@ -29,3 +29,6 @@ def solution(board, moves):
     return answer
 
 # URL : https://programmers.co.kr/learn/courses/30/lessons/64061
+# Programmers, Level1, 크레인 인형뽑기 게임, 2019 카카오 개발자 겨울 인턴십
+# pick 함수에서 board를 인형을 뽑을 경우 그 위치에 0으로 빈칸을 표시하고, 인형에 맞는 숫자를 없을 경우 0을 result에 넣어줍니다.
+# 마지막으로 19~28 Line에서 인형의 점수를 계산해서 return 합니다.
