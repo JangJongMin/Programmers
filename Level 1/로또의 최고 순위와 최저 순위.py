@@ -5,3 +5,5 @@ def solution(lottos, win_nums):
     return answer
 
 # URL : https://programmers.co.kr/learn/courses/30/lessons/77484
+# Programmers, Level1, 로또의 최고 순위와 최저 순위, 2021 Dev-Matching
+# 간단하게 생각하면 0이 들어간 경우는 다 맞을 경우와 다 틀린 경우만 계산하면 결과 값을 구할 수 있습니다.
