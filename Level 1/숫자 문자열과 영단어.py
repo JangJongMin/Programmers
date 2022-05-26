@@ -19,3 +19,5 @@ def solution(s):
     return answer
 
 # URL : https://programmers.co.kr/learn/courses/30/lessons/81301
+# Programmers, Level1, 숫자 문자열과 영단어, 2021 카카오 채용연계형 인턴십
+# 정규표현식을 이용하여 변환해줬습니다.
