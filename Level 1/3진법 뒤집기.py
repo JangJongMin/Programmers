@@ -7,4 +7,3 @@ def solution(n):
 
 # https://programmers.co.kr/learn/courses/30/lessons/68935
 # Programmers, Level1, 3진법 뒤집기, 월간 코드 챌린지 시즌1
-# 
